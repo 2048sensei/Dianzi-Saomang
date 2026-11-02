@@ -1,0 +1,8 @@
+* text=auto eol=lf
+
+*.jpg binary
+*.png binary
+*.ico binary
+
+# 给社员双击看的说明，保持 Windows 记事本友好的换行
+*.txt text eol=crlf
